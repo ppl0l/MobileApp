@@ -2,8 +2,6 @@
 
 A cross-platform mobile application for ordering food from restaurants and cafes, built with **React Native** and **Expo**. The app features user authentication, image capture, offline support, Firebase synchronization, multi-language support, and a modern UI with light/dark theme.
 
-> **Developer:** Zekrevskaya Polina, Group 351002
-
 ## 📋 About The Project
 
 **Food Delivery App** is a mobile application that allows users to browse recommended dishes from an external API, create and manage their own restaurant orders, take photos of dishes, and share them. The app follows a clean **MVVM-style architecture** with `ViewModels` and `Services`, and works seamlessly both online and offline.
